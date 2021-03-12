@@ -1,4 +1,4 @@
-AriaLinter [![Dependencies](https://david-dm.org/globant-ui/arialinter.png)
+AriaLinter [![Dependencies](https://david-dm.org/MaggieFero/arialinter.svg)]
 ============
 AriaLinter goal is twofold:
 * provide a simple accessibility linter for HTML documents
