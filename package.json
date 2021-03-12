@@ -23,7 +23,7 @@
   },
   "scripts": {
     "test": "grunt test",
-    "reset":"rm -rf node_modules/; npm install"
+    "reset": "rm -rf node_modules/; npm install"
   },
   "bin": {
     "arialinter": "./lib/cli/node.js"
@@ -44,7 +44,8 @@
     "grunt": "~1.3.0",
     "jquery": "^3.6.0",
     "jsdom": "^0.10.6",
-    "lodash": "4.17.21"
+    "lodash": "4.17.21",
+    "node-gyp": "^7.1.2"
   },
   "peerDependencies": {
     "grunt": "~1.3.0"
