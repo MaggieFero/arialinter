@@ -21,7 +21,8 @@
     "node": ">= 0.6.0"
   },
   "scripts": {
-    "test": "grunt test"
+    "test": "grunt test",
+    "reset":"rm -rf node_modules/; npm install"
   },
   "bin": {
     "arialinter": "./lib/cli/node.js"
