@@ -1,13 +1,10 @@
 name: 'Language Attribute'
 description: 'Check for language attribute on HTML tag'
 inputs:
-  who-to-greet:  # id of input
-    description: 'Who to greet'
+  dom:  # dom to check
+    description: 'What to check'
     required: true
-    default: 'World'
-outputs:
-  time: # id of output
-    description: 'The time we greeted you'
+    default: ''
 runs:
   using: 'node14'
   main: 'lang.js'
