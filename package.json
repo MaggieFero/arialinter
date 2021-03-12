@@ -28,7 +28,7 @@
     "arialinter": "./lib/cli/node.js"
   },
   "devDependencies": {
-    "grunt-contrib-jshint": "~0.1.1",
+    "grunt-contrib-jshint": "~3.0.0",
     "grunt-contrib-nodeunit": "~2.1.0",
     "grunt-contrib-watch": "~1.1.0",
     "grunt-contrib-copy": "~0.4.1"
