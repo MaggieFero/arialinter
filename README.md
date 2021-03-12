@@ -3,7 +3,7 @@ Github Actions version of AriaLinter [![Dependencies](https://david-dm.org/Maggi
 This repo is for a set of Github Actions based on the AriaLinter project's simple accessibility linter for HTML documents.
 
 ## Getting Started
-
+*WARNING:* This repo does not contain any working Github Actions yet.
 
 
 ### Nodejs
