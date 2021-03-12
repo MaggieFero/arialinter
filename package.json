@@ -3,7 +3,7 @@
   "description": "Github Actions version of AriaLinter, which provides a simple accesibility linter for HTML documents.",
   "version": "0.0.0",
   "homepage": "https://github.com/MaggieFero/arialinter",
-  "license": "This project uses code copyright 2013 Globait UI Developers and copyright 2019 Github, both released under an MIT license. Full details at https://github.com/MaggieFero/arialinter/blob/main/LICENSE-MIT"
+  "license": "License available at https://github.com/MaggieFero/arialinter/blob/main/LICENSE-MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/MaggieFero/arialinter.git"
