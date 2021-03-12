@@ -1,19 +1,19 @@
 {
-  "name": "grunt-arialinter",
-  "description": "AriaLinter provides a simple accesibility linter for HTML documents.",
-  "version": "0.2.1",
-  "homepage": "https://github.com/globant-ui/arialinter",
+  "name": "arialinter-githubactions",
+  "description": "Github Actions version of AriaLinter, which provides a simple accesibility linter for HTML documents.",
+  "version": "0.0.0",
+  "homepage": "https://github.com/MaggieFero/arialinter",
   "repository": {
     "type": "git",
-    "url": "https://github.com/globant-ui/arialinter.git"
+    "url": "https://github.com/MaggieFero/arialinter.git"
   },
   "bugs": {
-    "url": "https://github.com/globant-ui/arialinter/issues"
+    "url": "https://github.com/MaggieFero/arialinter/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/globant-ui/arialinter/blob/master/LICENSE-MIT"
+      "url": "https://github.com/MaggieFero/arialinter/blob/main/LICENSE-MIT"
     }
   ],
   "main": "Gruntfile.js",
